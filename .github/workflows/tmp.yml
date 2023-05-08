@@ -42,7 +42,7 @@ jobs:
   Run_Bot:
 
     runs-on: ubuntu-latest
-#    timeout-minutes: 60 # Limit the time of the bot
+    timeout-minutes: 60 # Limit the time of the bot
 
     steps:
 
